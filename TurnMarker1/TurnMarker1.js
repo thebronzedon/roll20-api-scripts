@@ -62,7 +62,7 @@ var TurnMarker = TurnMarker || (function(){
                         autoPull: 'none',
                         autoskipHidden: true,
                         tokenName: 'Round',
-                        tokenURL: 'https://s3.amazonaws.com/files.d20.io/images/4095816/086YSl3v0Kz3SlDAu245Vg/thumb.png?1400535580',
+                        tokenURL: 'https://files.d20.io/images/490655862/-3_vga3U_mU3iZQdOMg1Sw/max.webp?1781461105',
                         playAnimations: false,
                         rotation: false,
                         animationSpeed: 5,
